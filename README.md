@@ -1,4 +1,4 @@
-| ![github_stats] | ![gitHub_streak] |
+![github_stats] ![gitHub_streak] 
 
 [github_stats]: https://github-readme-stats.vercel.app/api?username=zawaruddin&count_private=true&show_icons=true&theme=bear 
 [gitHub_streak]: https://github-readme-streak-stats.herokuapp.com?user=zawaruddin&theme=bear
